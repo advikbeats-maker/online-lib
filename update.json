@@ -4,6 +4,6 @@
   "apkUrl": "https://github.com/advikbeats-maker/online-lib/releases/download/v2.0.1/app.apk",
   "dialogTitle": "New Update Available",
   "dialogMessage": "A new version is available. Please update to continue using the app.",
-  "buttonName": "Download Update",
+  "buttonName": "Download",
   "buttonUrl": "https://github.com/advikbeats-maker/online-lib/releases/download/v2.0.1/app.apk"
 }
