@@ -1,9 +1,1 @@
-{
-  "latest_version_code": 1,
-  "dialog": {
-    "title": "Update required",
-    "message": "A newer version of this app is available. Please update to continue.",
-    "button_text": "Download update",
-    "link": "https://github.com/your-account/your-repository/releases/latest"
-  }
-}
+.
