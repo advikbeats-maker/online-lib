@@ -1,1 +1,5 @@
-When you Done Send me Json how do structure
+{
+  "kill_switch": false,
+  "minimum_version": "1.0.0",
+  "download_url": "https://your-domain.com/downloads/matrix-latest.apk"
+}
