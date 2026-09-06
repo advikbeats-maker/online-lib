@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "update_required": true,
   "apk_url": "https://github.com/advikbeats-maker/online-lib/blob/main/app-release.apk",
   "server": true,
