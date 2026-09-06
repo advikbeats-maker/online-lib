@@ -1,5 +1,7 @@
 {
-  "kill_switch": false,
-  "minimum_version": "1.0.0",
-  "download_url": "https://github.com/advikbeats-maker/online-lib/blob/main/app-release.apk"
+  "version": "1.0.1",
+  "update_required": false,
+  "apk_url": "https://github.com/advikbeats-maker/online-lib/blob/main/app-release.apk",
+  "server": true,
+  "message": "A new version is available. Please update."
 }
